@@ -7,3 +7,7 @@ This is some testing of markdown
 let message = "Hello World!";
 console.log(message);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
